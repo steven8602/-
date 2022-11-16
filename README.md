@@ -25,3 +25,6 @@ ozone(오존), pm10(미세먼지), pm2.5(초미세먼지) 이 데이터들에서
 <h2> <li> 프로젝트 개발 언어 - Python </li> </h2>
 <h2> <li> 앞으로 해야할 것 </li> </h2>
 - 세가지 또는 더 많은 모델을 더해서 더 좋은 모델로 만들어 RMSE (평균 제곱근 오차)를 낮춘다
+
+<h3>판넬 이미지 </h3>
+<img width="422" alt="판넬 이미지" src="https://user-images.githubusercontent.com/51151313/202242100-44ebe2af-01a1-4f14-b030-28db9b5b3ddb.PNG">
